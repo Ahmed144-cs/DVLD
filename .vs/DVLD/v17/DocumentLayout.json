@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3D\\source\\repos\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\test\\testtypes\\edittesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:test\\testtypes\\edittesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\test\\testtypes\\edittesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:test\\testtypes\\edittesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\test\\testtypes\\managetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:test\\testtypes\\managetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\application\\applicationtype\\editapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:application\\applicationtype\\editapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\application\\applicationtype\\editapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:application\\applicationtype\\editapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\test\\testtypes\\managetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:test\\testtypes\\managetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\managetesttypelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B427732-CA90-432D-B726-17A491AA563A}|..\\DVLD_DatabaseAccess\\DVLD_DatabaseAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_databaseaccess\\managetesttypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\application\\applicationtype\\fmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:application\\applicationtype\\fmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|C:\\Users\\3D\\source\\repos\\DVLD\\application\\applicationtype\\fmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:application\\applicationtype\\fmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\manageapptypeslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B427732-CA90-432D-B726-17A491AA563A}|..\\DVLD_DatabaseAccess\\DVLD_DatabaseAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_databaseaccess\\manageapptypesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\login\\loginscrean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:login\\loginscrean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\login\\loginscrean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:login\\loginscrean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|c:\\users\\3d\\source\\repos\\dvld\\classes\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8344CFC-8BB8-443D-97E2-0FE87852973C}|DVLD_UserAccess.csproj|solutionrelative:classes\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\localdrivinglicenseapplicationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\testappointmentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\licenseclasslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\internationallicenselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\driverlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\detainlicenselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\clsapplicationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060CA3-56C7-4683-B225-3BDC1D13C1F6}|..\\DVLD_LogicAccess\\DVLD_LogicAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_logicaccess\\personlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B427732-CA90-432D-B726-17A491AA563A}|..\\DVLD_DatabaseAccess\\DVLD_DatabaseAccess.csproj|c:\\users\\3d\\source\\repos\\dvld_databaseaccess\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 107,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditTestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\EditTestTypes.cs",
+              "RelativeDocumentMoniker": "Test\\TestTypes\\EditTestTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\EditTestTypes.cs",
+              "RelativeToolTip": "Test\\TestTypes\\EditTestTypes.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAIA6wBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:41:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditTestTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\EditTestTypes.cs",
+              "RelativeDocumentMoniker": "Test\\TestTypes\\EditTestTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\EditTestTypes.cs [Design]",
+              "RelativeToolTip": "Test\\TestTypes\\EditTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:41:23.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditApplicationTypes.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\EditApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationType\\EditApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\EditApplicationTypes.cs",
+              "RelativeToolTip": "Application\\ApplicationType\\EditApplicationTypes.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:39:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageTestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\ManageTestTypes.cs",
+              "RelativeDocumentMoniker": "Test\\TestTypes\\ManageTestTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\ManageTestTypes.cs",
+              "RelativeToolTip": "Test\\TestTypes\\ManageTestTypes.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:38:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageTestTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\ManageTestTypes.cs",
+              "RelativeDocumentMoniker": "Test\\TestTypes\\ManageTestTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Test\\TestTypes\\ManageTestTypes.cs [Design]",
+              "RelativeToolTip": "Test\\TestTypes\\ManageTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:38:11.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageTestTypeData.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_DatabaseAccess\\ManageTestTypeData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DatabaseAccess\\ManageTestTypeData.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_DatabaseAccess\\ManageTestTypeData.cs",
+              "RelativeToolTip": "..\\DVLD_DatabaseAccess\\ManageTestTypeData.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:36:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FmManageApplicationTypes.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\FmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationType\\FmManageApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\FmManageApplicationTypes.cs",
+              "RelativeToolTip": "Application\\ApplicationType\\FmManageApplicationTypes.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:33:56.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\EditApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationType\\EditApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\EditApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Application\\ApplicationType\\EditApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:33:13.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageAppTypesData.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_DatabaseAccess\\ManageAppTypesData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DatabaseAccess\\ManageAppTypesData.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_DatabaseAccess\\ManageAppTypesData.cs",
+              "RelativeToolTip": "..\\DVLD_DatabaseAccess\\ManageAppTypesData.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:30:28.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginScrean.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Login\\LoginScrean.cs",
+              "RelativeDocumentMoniker": "Login\\LoginScrean.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Login\\LoginScrean.cs",
+              "RelativeToolTip": "Login\\LoginScrean.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwEgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:22:15.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginScrean.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Login\\LoginScrean.cs",
+              "RelativeDocumentMoniker": "Login\\LoginScrean.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Login\\LoginScrean.cs [Design]",
+              "RelativeToolTip": "Login\\LoginScrean.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:21:37.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsFormat.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Classes\\clsFormat.cs",
+              "RelativeDocumentMoniker": "Classes\\clsFormat.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Classes\\clsFormat.cs",
+              "RelativeToolTip": "Classes\\clsFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:21:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocalDrivingLicenseApplicationLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\LocalDrivingLicenseApplicationLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\LocalDrivingLicenseApplicationLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\LocalDrivingLicenseApplicationLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\LocalDrivingLicenseApplicationLogic.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:46:54.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestAppointmentLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\TestAppointmentLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\TestAppointmentLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\TestAppointmentLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\TestAppointmentLogic.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:46:44.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InternationalLicenseLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\InternationalLicenseLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\InternationalLicenseLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\InternationalLicenseLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\InternationalLicenseLogic.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:46:06.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DriverLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\DriverLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\DriverLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\DriverLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\DriverLogic.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:46:00.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetainLicenseLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\DetainLicenseLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\DetainLicenseLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\DetainLicenseLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\DetainLicenseLogic.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:45:55.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsApplicationLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\clsApplicationLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\clsApplicationLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\clsApplicationLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\clsApplicationLogic.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:39:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageTestTypeLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\ManageTestTypeLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\ManageTestTypeLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\ManageTestTypeLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\ManageTestTypeLogic.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:39:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageAppTypesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\ManageAppTypesLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\ManageAppTypesLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\ManageAppTypesLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\ManageAppTypesLogic.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:38:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LicenseClassLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\LicenseClassLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\LicenseClassLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\LicenseClassLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\LicenseClassLogic.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:38:29.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\UserLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\UserLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\UserLogic.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAMwD8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:38:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonLogic.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\PersonLogic.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_LogicAccess\\PersonLogic.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_LogicAccess\\PersonLogic.cs",
+              "RelativeToolTip": "..\\DVLD_LogicAccess\\PersonLogic.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:37:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD_DatabaseAccess\\PersonData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DatabaseAccess\\PersonData.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD_DatabaseAccess\\PersonData.cs",
+              "RelativeToolTip": "..\\DVLD_DatabaseAccess\\PersonData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:37:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FmManageApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\FmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationType\\FmManageApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\3D\\source\\repos\\DVLD\\Application\\ApplicationType\\FmManageApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Application\\ApplicationType\\FmManageApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:37:03.574Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
