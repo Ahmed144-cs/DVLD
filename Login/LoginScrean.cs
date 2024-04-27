@@ -18,9 +18,12 @@ namespace DVLD
         public LoginScrean()
         {
             InitializeComponent();
+
             TbPassword.PasswordChar = '*';
             TbPassword.MaxLength = 20;
             TbUserName.MaxLength = 20;
+
+            ErrorHandlingLogic.SubscribeToErrors(clsErrorLogger.HandleError);
         }
 
         private void LoginScrean_Load(object sender, EventArgs e)

@@ -74,6 +74,7 @@
     <Compile Include="Application\Detain\DetainLicenseApplication.Designer.cs">
       <DependentUpon>DetainLicenseApplication.cs</DependentUpon>
     </Compile>
+    <Compile Include="Classes\clsErrorLogger.cs" />
     <Compile Include="License\International License\Controls\ctrlInternationalLicenseInfo.cs">
       <SubType>UserControl</SubType>
     </Compile>
