@@ -30,9 +30,9 @@ namespace DVLD
             TbPassword.PasswordChar = '*';
             TbConfrmPass.PasswordChar = '*';
 
-            TbCurrentPassword.MaxLength = 20;
-            TbPassword.MaxLength = 20;
-            TbConfrmPass.MaxLength = 20;
+            TbCurrentPassword.MaxLength = 63;
+            TbPassword.MaxLength = 64;
+            TbConfrmPass.MaxLength = 64;
 
             _ResetDefualtValues();
 
@@ -101,7 +101,7 @@ namespace DVLD
                 return;
             }
 
-            _User.Password = TbPassword.Text;
+            _User.Password = clsFormat.ComputeHash(TbPassword.Text.Trim());
 
             if (_User.Save())
             {
@@ -129,7 +129,7 @@ namespace DVLD
                 errorProvider1.SetError(TbCurrentPassword, null);
             };
 
-            if (_User.Password != TbCurrentPassword.Text.Trim())
+            if (_User.Password != clsFormat.ComputeHash(TbCurrentPassword.Text.Trim()))
             {
                 e.Cancel = true;
                 errorProvider1.SetError(TbCurrentPassword, "Current password is wrong!");

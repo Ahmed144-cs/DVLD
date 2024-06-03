@@ -35,9 +35,9 @@ namespace DVLD
         private void AddUbdateUser_Load(object sender, EventArgs e)
         {
             TbConfrmPass.PasswordChar = '*';
-            TbConfrmPass.MaxLength = 20;
+            TbConfrmPass.MaxLength = 63;
             TbPassword.PasswordChar = '*';
-            TbPassword.MaxLength = 20;
+            TbPassword.MaxLength = 63;
             TbUserName.MaxLength = 20;
 
             _ResetDefualtValues();
@@ -144,7 +144,7 @@ namespace DVLD
 
             _User.PersonID = this.filterPerson1.PersonID;
             _User.UserName = TbUserName.Text.Trim();
-            _User.Password = TbPassword.Text.Trim();
+            _User.Password = (TbPassword.Text.Trim().Length != 64) ? clsFormat.ComputeHash(TbPassword.Text.Trim()) : TbPassword.Text.Trim();
             _User.IsActive = CbIsActive.Checked;
 
             if (_User.Save())

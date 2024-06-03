@@ -1,4 +1,5 @@
 ﻿using DVLD_LogicAccess;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -12,33 +13,21 @@ namespace DVLD
     public class clsGlobal
     {
         public static UserLogic CurrUser;
-        public static readonly string FilePath = "RememberMeFile.txt";
+        public static readonly string WindowsRegeFilePath = @"HKEY_CURRENT_USER\SOFTWARE\MyDVLD";
+
 
         public static bool GetStoredCredential(ref string Username, ref string Password)
         {
             try
             {
-                string filePath = FilePath;
-                // Check if the file exists before attempting to read it
-                if (File.Exists(filePath))
+                string _UserName = Registry.GetValue(WindowsRegeFilePath, "Username", null) as string;
+                string _Password = Registry.GetValue(WindowsRegeFilePath, "Password", null) as string;
+
+                if (_UserName != null && _Password != null)
                 {
-                    using (StreamReader reader = new StreamReader(filePath))
-                    {
-                        // Read data line by line until the end of the file
-                        string line;
-                        while ((line = reader.ReadLine()) != null)
-                        {
-                            //Console.WriteLine(line); // Output each line of data to the console
-                            string[] result = line.Split(new string[] { "#//#" }, StringSplitOptions.None);
-
-                            Username = result[0];
-                            Password = result[1];
-
-                            return true;
-                        }
-
-                        return false;
-                    }
+                    Username = _UserName;
+                    Password = _Password;
+                    return true;
                 }
                 else
                 {
@@ -47,46 +36,23 @@ namespace DVLD
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"An error occurred: {ex.Message}");
+                clsErrorLogger.HandleError(ex.Message);
                 return false;
             }
         }
 
-        public static void CreateRememberMeFile()
-        {
-            if (!IsFileRememberMeExest())
-            {
-                File.Create(FilePath);
-            }
-        }
-
-        public static bool IsFileRememberMeExest()
-        {
-            if (File.Exists(FilePath))
-            {
-                return true;
-            }
-            return false;
-        }
-
-        public static bool SaveDataToRemeberMeFile(string userName, string Password)
-        {
-            CreateRememberMeFile();
-
-            return LoadDataToLoginFile(userName, Password); 
-        }
-
-        public static bool LoadDataToLoginFile(string userName, string Password)
+        public static bool SaveDataToRememberMeRegistry(string userName, string password)
         {
             try
             {
-                StreamWriter file = new StreamWriter(FilePath, false);
-                file.WriteLine(userName + "#//#" + Password);
-                file.Close();
+                Registry.SetValue(WindowsRegeFilePath,"Username", userName, RegistryValueKind.String);
+                Registry.SetValue(WindowsRegeFilePath, "Password", password, RegistryValueKind.String);
+
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                clsErrorLogger.HandleError(ex.Message);
                 return false;
             }
         }
@@ -95,11 +61,22 @@ namespace DVLD
         {
             try
             {
-                File.WriteAllText(FilePath, string.Empty);
+                using (RegistryKey baseKey = RegistryKey.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Registry64))
+                {
+                    using (RegistryKey key = baseKey.OpenSubKey(WindowsRegeFilePath, true))
+                    {
+                        if (key != null)
+                        {
+                            // Delete the values under the subkey
+                            key.DeleteValue("Username", false);
+                            key.DeleteValue("Password", false);
+                        }
+                    }
+                }       
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                Console.WriteLine($"An error occurred: {ex.Message}");
+                clsErrorLogger.HandleError(ex.Message);
             }
         }
     }

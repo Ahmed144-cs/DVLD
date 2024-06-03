@@ -20,7 +20,7 @@ namespace DVLD
             InitializeComponent();
 
             TbPassword.PasswordChar = '*';
-            TbPassword.MaxLength = 20;
+            TbPassword.MaxLength = 64;
             TbUserName.MaxLength = 20;
 
             ErrorHandlingLogic.SubscribeToErrors(clsErrorLogger.HandleError);
@@ -73,7 +73,7 @@ namespace DVLD
             if (_SerError())
                 return;
 
-            UserLogic user = UserLogic.FindByUsernameAndPassword(TbUserName.Text.Trim(), TbPassword.Text.Trim());
+            UserLogic user = UserLogic.FindByUsernameAndPassword(TbUserName.Text.Trim(), (TbPassword.Text.Trim().Length != 64) ? clsFormat.ComputeHash(TbPassword.Text.Trim()) : TbPassword.Text.Trim());
 
             if (user != null)
             {
@@ -85,7 +85,7 @@ namespace DVLD
 
                 if(CbRememberMe.Checked)
                 {
-                    if(!clsGlobal.SaveDataToRemeberMeFile(TbUserName.Text.Trim(), TbPassword.Text.Trim()))
+                    if(!clsGlobal.SaveDataToRememberMeRegistry(TbUserName.Text.Trim(), clsFormat.ComputeHash(TbPassword.Text.Trim())))
                     {
                         MessageBox.Show("Connection failed", "Error: Connection Failure", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return;
@@ -93,7 +93,7 @@ namespace DVLD
                 }
                 else
                 {
-                    clsGlobal.SaveDataToRemeberMeFile("","");
+                    clsGlobal.SaveDataToRememberMeRegistry("","");
                 }
 
                 clsGlobal.CurrUser = user;
